@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--通讯录滑动栏-->
+    <declare-styleable name="LetterSideBar">
+        <attr name="textColor" format="color|reference" />
+        <attr name="backgroundColor" format="color|reference" />
+        <attr name="checkTextColor" format="color|reference" />
+        <attr name="textSize" format="dimension" />
+        <attr name="hintTextSize" format="dimension" />
+        <attr name="sideWidth" format="dimension" />
+        <attr name="circleRadius" format="dimension" />
+    </declare-styleable>
+
+</resources>
